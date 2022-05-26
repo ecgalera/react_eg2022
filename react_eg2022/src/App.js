@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>Hola</div>
+    <div style={{fontSize:24}}>Hola ya tengo bootstrap</div>
   )
 }
 
